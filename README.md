@@ -71,12 +71,7 @@ cd <repo>
 ### Train the model
 
 ```bash
-
+yolov1/yolov1.ipynb
 ```
 
-### Run inference
-
-```bash
-
-```
 
