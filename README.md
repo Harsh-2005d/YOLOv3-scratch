@@ -49,8 +49,8 @@ A YOLOv1-style grid-based detection head is used without predefined anchors. The
    * Reasonable bounding box performance for an anchor-free model.
 
 ## Resuts
-![alt text](path/to/image.png)
-![alt text](path/to/image.png)
+![alt text](./testim.png)
+![alt text](./ouptut.png)
 ## Future Work
 
 * Add anchor-based predictions.
