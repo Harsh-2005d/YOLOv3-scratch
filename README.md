@@ -50,7 +50,7 @@ A YOLOv1-style grid-based detection head is used without predefined anchors. The
 
 ## Resuts
 ![alt text](./testim.png)
-![alt text](./ouptut.png)
+![alt text](./output.png)
 ## Future Work
 
 * Add anchor-based predictions.
