@@ -48,6 +48,9 @@ A YOLOv1-style grid-based detection head is used without predefined anchors. The
    * Stable confidence predictions.
    * Reasonable bounding box performance for an anchor-free model.
 
+## Resuts
+![alt text](path/to/image.png)
+![alt text](path/to/image.png)
 ## Future Work
 
 * Add anchor-based predictions.
@@ -73,5 +76,7 @@ cd <repo>
 ```bash
 yolov1/yolov1.ipynb
 ```
+
+
 
 
